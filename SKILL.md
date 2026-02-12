@@ -1,11 +1,10 @@
 ---
 name: dignity-under-pressure
-description: Maintain personal dignity and extend dignity to others even in hostile
-  or degrading circumstances.
+description: Maintain personal dignity and extend dignity to others even in hostile or degrading circumstances.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - comedy
 - dignity-preservation-under-pressure
