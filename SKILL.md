@@ -4,7 +4,8 @@ description: Maintain personal dignity and extend dignity to others even in host
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3833
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - dignity-preservation-under-pressure
