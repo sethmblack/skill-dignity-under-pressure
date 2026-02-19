@@ -3,8 +3,8 @@ name: dignity-under-pressure
 description: Maintain personal dignity and extend dignity to others even in hostile or degrading circumstances.
 license: MIT
 metadata:
+  version: 1.0.3834
   author: sethmblack
-  version: 1.0.3833
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
